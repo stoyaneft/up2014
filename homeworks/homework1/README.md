@@ -8,3 +8,15 @@
 2 -> числото a в шестнадесетична бройна система.
 Hint: Използвайте манипулаторите
 [hex](http://www.cplusplus.com/reference/ios/hex/), [oct](http://www.cplusplus.com/reference/ios/oct/) и [dec](http://www.cplusplus.com/reference/ios/dec/).
+
+Примери:
+----------
+```
+14 8
+// -> e
+
+10 6
+// -> 12
+
+15 4
+// -> 15
